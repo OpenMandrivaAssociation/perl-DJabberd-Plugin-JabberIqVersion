@@ -8,7 +8,6 @@ Group:		Development/Perl
 Summary:    Add support for "XEP 0092, Software version" to DJabberd
 Source0:    ftp://ftp.perl.org/pub/CPAN/modules/by-module/DJabberd/DJabberd-Plugin-JabberIqVersion-%{version}.tar.bz2
 Url:		http://search.cpan.org/dist/%{realname}
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: perl-devel
 BuildRequires: perl(DJabberd)
 BuildArch: noarch
