@@ -2,7 +2,7 @@
 
 Name:		perl-%{realname}
 Version:    0.40
-Release:    %mkrel 2
+Release:    %mkrel 3
 License:	Artistic or GPL
 Group:		Development/Perl
 Summary:    Add support for "XEP 0092, Software version" to DJabberd
